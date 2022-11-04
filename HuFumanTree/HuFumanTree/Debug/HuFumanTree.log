@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\c++数据结构实验代码\HuFumanTree\HuFumanTree\源.cpp(137,19): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++数据结构实验代码\HuFumanTree\HuFumanTree\源.cpp(158,19): warning C4018: “<”: 有符号/无符号不匹配
+  HuFumanTree.vcxproj -> E:\c++数据结构实验代码\HuFumanTree\Debug\HuFumanTree.exe
